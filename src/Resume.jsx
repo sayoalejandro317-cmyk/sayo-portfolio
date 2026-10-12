@@ -2,18 +2,6 @@ const Resume = () => {
   return (
     <div className="max-w-3xl mx-auto mt-8 border border-gray-800 bg-[#1a1a1a] p-8 shadow-md rounded-lg">
       <h2 className="text-3xl font-bold mb-6 border-b pb-2">Resume / CV</h2>
-      
-      <div className="flex justify-between items-center mb-6 border-b border-gray-800 pb-4">
-        <h2 className="text-3xl font-bold text-white">Resume / CV</h2>
-        
-        <a 
-          href="/resume.pdf" 
-          download="Alejandro_Sayo_CV.pdf"
-          className="bg-cyan-600 hover:bg-cyan-400 text-white font-bold py-2 px-4 rounded transition-colors"
-        >
-          Download CV
-        </a>
-      </div>
 
       <div className="mb-6">
         <h3 className="text-2xl font-semibold text-cyan-500">Education</h3>
