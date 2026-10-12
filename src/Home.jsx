@@ -33,6 +33,7 @@ const Home = () => {
         <div className="flex flex-wrap gap-4 font-mono text-sm text-gray-400">
           <a href="https://www.linkedin.com/feed/" target="_blank" className="hover:text-white transition-colors">LinkedIn ➚</a>
           <a href="https://www.facebook.com/sayo.alejandro.dc" target="_blank" className= "hover:text-white transition-colors">Facebook ➚</a>
+          <p className="hover:text-white transition-colors">✉: sayoalejandro317@gmail.com</p>
         </div>
       </div>
       
